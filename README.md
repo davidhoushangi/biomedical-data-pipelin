@@ -1,8 +1,8 @@
 # Biomedical Data Cleaning Pipeline
 
-A Python tool for cleaning and exploring structured biomedical CSV data.
+A Python tool for cleaning and exploring structured biomedical `CSV` data.
 
-## What it does
+## What does it do?
 1. Loads a CSV file and records its original row count and missing values.
 2. Checks that required columns are present.
 3. Removes exact duplicate rows when enabled.
@@ -12,7 +12,7 @@ A Python tool for cleaning and exploring structured biomedical CSV data.
 7. Saves the cleaned CSV and a JSON log of every change.
 8. Generates a report with missingness, distribution, category, and correlation charts.
 
-## Repo Structure  
+## Repository Structure  
 ```
 biomedical-data-pipeline/
 ├── README.md
