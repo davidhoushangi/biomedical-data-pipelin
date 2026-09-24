@@ -1,4 +1,4 @@
-# Biomedical Data Pipeline
+# Biomedical Data Cleaning Pipeline
 
 A Python tool for cleaning and exploring structured biomedical CSV data.
 
